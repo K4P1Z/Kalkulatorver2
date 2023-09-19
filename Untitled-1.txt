@@ -1,0 +1,24 @@
+C++ Tworzenie kalkulatora:
+    funkcje zwracające wynik,
+    funkcje wykonujące się ale nie zwracające :XD
+
+Funkcja: - blok programu zamknięty w przestrzeni funkcji {} którego zawartość możemy wykonywać przez podanie nazwy tej funkcji
+Funkcja można wykonywać, powielać w różnych częściach aplikacji
+
+    Funkcje zwracają wynik lub tylko się wykonują
+    void oznacza że funkcja nic nie zwraca ale wywołana wykonuje się
+
+    float dodawanie(float liczba1, float liczba2){
+        return 0.0f;
+    }
+
+    Napisz app w c++ na konsole i wyznacz
+    energie mechaniczna
+    energie kinetyczna
+    energie potencjalna
+    Em = Ek + ep [J], Ek = (m * V^2) / 2 [J], Ep = m * h * g [J]
+    g = 10; wartość stałą
+    funkcje ktore zwracaja wynik: double
+    double em(float m, float v, float h);
+    double ek(float m, float v);
+    double ep(float m, float h);

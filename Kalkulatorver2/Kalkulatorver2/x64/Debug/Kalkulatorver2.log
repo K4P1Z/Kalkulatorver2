@@ -1,0 +1,4 @@
+﻿  Kalkulatorver2.cpp
+C:\Users\Programista\Documents\Kacper Kionka\Kalkulatorver2\Kalkulatorver2\Kalkulatorver2\Kalkulatorver2.cpp(65): warning C4715: "pierwiastekLiczba1”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Programista\Documents\Kacper Kionka\Kalkulatorver2\Kalkulatorver2\Kalkulatorver2\Kalkulatorver2.cpp(70): warning C4715: "pierwiastekLiczba2”: niewszystkie ścieżki kodu zwracają wartość
+  Kalkulatorver2.vcxproj -> C:\Users\Programista\Documents\Kacper Kionka\Kalkulatorver2\Kalkulatorver2\x64\Debug\Kalkulatorver2.exe
